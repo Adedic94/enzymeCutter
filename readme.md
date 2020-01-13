@@ -1,11 +1,5 @@
 ## restrictionEnzyme cutter 
 
-* **Name**:             Armin Dedic
-* **St.Number**:        342615
-* **Group**:            BFV3
-* **Course**:           Web-based information systems 1
-* **Assignment**:       restrictionEnzyme cutter
-
 ## Description ##
 This web-based program will be using an input DNA from the user to produce fragments by cutting the 
 DNA sequence with restrictionEnzymes. Using those fragments, the program will calculate the molecular weight
