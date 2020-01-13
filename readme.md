@@ -1,4 +1,4 @@
-##restrictionEnzyme cutter 
+## restrictionEnzyme cutter 
 
 * **Name**:             Armin Dedic
 * **St.Number**:        342615
@@ -25,3 +25,6 @@ and GC percentage of each fragment. The results will then be shown to the user o
 
 ## Compatibility information ##
  * It is recommended to run this web applicaiton on Mozila Firefox or Microsoft Edge
+ 
+## Author:
+ * Armin Dedic
